@@ -9,4 +9,3 @@ This repository is designed to be used by anyone looking to incorporate authenti
 ## Credits
 
 The content for these Duas has been sourced and verified from [Hisnul Muslim](https://sunnah.com/hisn#C8.00). We acknowledge and thank them for their comprehensive collection and efforts in preserving these important supplications.
-# Muslim-Dua
