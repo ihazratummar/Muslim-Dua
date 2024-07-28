@@ -1,7 +1,6 @@
 {
     "status": "success",
-    "response": [
-      "categories": [
+    "data": [
         {
           "categoryName": "Morning and Evening",
           "topics": [
@@ -75,7 +74,6 @@
               }
           ]
         }
-      ]
     ]
   }
   
