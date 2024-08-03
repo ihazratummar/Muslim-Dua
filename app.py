@@ -22,7 +22,7 @@ def load_dua():
         return []
     
 
-@app.route('/api/duas', methods=['GET'])
+@app.route('/', methods=['GET'])
 @limiter.limit("1000 per day, 50 per hour", error_message='You have exceeded the rate limit.')
 def get_dua():
     duas = load_dua()
