@@ -1,0 +1,147 @@
+{
+  "status": "success",
+  "data": [
+      {
+        "categoryName": "Morning and Evening",
+        "bnCategoryName": "সকাল এবং সন্ধ্যা",
+        "topics": [
+          {
+            "topicName": "When waking up",
+            "bnTopicName" : "ঘুম থেকে জেগে ওঠার সময়",
+            "duas": [
+              {
+                "arabicText": "أَلْحَمْدُ لِلّٰهِ الَّذِيْ أَحْيَانَا بَعْدَ مَا أَمَاتَنَا، وَإِلَيْهِ النُّشُوْرُ",
+                "entransliteration" : "Alḥamdu lillāhil-ladhī 'aḥyānā ba`da mā 'amātanā wa 'ilayhin-nushūr.",
+                "bntransliteration" : "আলহামদুলিল্লাহিল লাজি আহইয়ানা বা’দা মা আমাতানা ওয়া ইলাইহিন নুশুর",
+                "enmeaning": "Praise is to Allah Who gives us life after He has caused us to die and to Him is the return.",
+                "bnmeaning": "হামদ-প্রশংসা আল্লাহ্‌র জন্য, যিনি (নিদ্রারূপ) মৃত্যুর পর আমাদেরকে জীবিত করলেন, আর তাঁরই নিকট সকলের পুনরুত্থান",
+                "hadithNumber": "Al-Bukhari, cf. Al-Asqalani, Fathul-Bari 11/113; Muslim 4/2083"
+              },
+              {
+                "arabicText": "لَا إِلٰهَ إِلاَّ اللّٰهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ، سُبْحَانَ اللّٰهِ، وَالْحَمْدُ لِلّٰهِ، وَلَا إِلٰهَ إِلَّا اللّٰهُ، وَاللّٰهُ أَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللّٰهِ الْعَلِيِّ الْعَظِيْمِ، رَبِّ اغْفِرْ لِيْ",
+                "entransliteration" : "Lā 'ilāha 'illallāhu waḥdahu la sharīka lahu, lahul-mulku wa lahul-ḥamdu, wa huwa 'alā kulli shay'in qadīr Subḥānallāhi, walḥamdu lillāhi, wa lā 'ilāha 'illallāhu, wallāhu 'akbar, wa lā ḥaula wa lā quwwata 'illā billāhil-`aliyyil-`aẓīm, rabbighfir lī.",
+                "bntransliteration" : "লা ইলা-হা ইল্লাল্লা-হু ওয়াহ্‌দাহূ লা- শারীকালাহূ, লাহুল মুলকু, ওয়ালাহুল হামদু, ওয়াহুয়া ‘আলা কুল্লি শায়ইন ক্বাদীর। সুবহা-নাল্লাহি, ওয়ালহামদু লিল্লাহি, ওয়া লা ইলা-হা ইল্লাল্লা-হু, ওয়াল্লা-হু আকবার, ওয়া লা- হাওলা ওয়ালা- কুওয়াতা ইল্লা- বিল্লা-হিল ‘আলিয়্যিল ‘আযীম, রাব্বিগফির লী",
+                "enmeaning": "There is none worthy of worship but Allah alone, Who has no partner, His is the dominion and to Him belongs all praise, and He is able to do all things. Glory is to Allah. Praise is to Allah. There is none worthy of worship but Allah. Allah is the Most Great. There is no might and no power except by Allah's leave, the Exalted, the Mighty. My Lord, forgive me.",
+                "bnmeaning": "একমাত্র আল্লাহ ছাড়া কোনো হক্ব ইলাহ নেই, তাঁর কোনো শরীক নেই; রাজত্ব তাঁরই, প্রশংসাও তাঁরই; আর তিনি সকল কিছুর ওপর ক্ষমতাবান। আল্লাহ পবিত্র-মহান। সকল হামদ-প্রশংসা আল্লাহ্‌র। আল্লাহ ছাড়া কোনো হক্ব ইলাহ নেই। আল্লাহ সবচেয়ে বড়। সুউচ্চ সুমহান আল্লাহর সাহায্য ছাড়া (পাপ কাজ থেকে দূরে থাকার) কোনো উপায় এবং (সৎকাজ করার) কোনো শক্তি কারো নেই। হে রব্ব ! আমাকে ক্ষমা করুন",
+                "hadithNumber": "Fathul-Bari 3/39 , Ibn Majah 2/335"
+              },
+              {
+                  "arabicText": "اَلْحَمْدُ لِلّٰهِ الَّذِيْ عَافَانِيْ فِيْ جَسَدِيْ، وَرَدَّ عَلَيَّ رُوْحِيْ، وَأَذِنَ لِيْ بِذِكْرِهِ",
+                  "entransliteration" : "Al-ḥamdu lillāhil-ladhī `āfānī fī jasadī, wa radda `alayya rūḥī, wa 'adhina lī bidhikrihi.",
+                  "bntransliteration" : "আল্‌হামদু লিল্লা-হিল্লাযী ‘আ-ফা-নী ফী জাসাদী, ওয়ারদ্দা ‘আলাইয়্যা রূহী ওয়া আযিনা লী বিযিকরিহী",
+                  "enmeaning": "Praise is to Allah Who gave strength to my body and returned my soul to me and permitted me to remember Him.",
+                  "bnmeaning": "সকল হামদ-প্রশংসা আল্লাহ্‌র জন্য, যিনি আমার দেহকে নিরাপদ করেছেন, আমার রূহকে আমার নিকট ফেরত দিয়েছেন এবং আমাকে তাঁর যিক্‌র করার অনুমতি (সুযোগ) দিয়েছেন",
+                  "hadithNumber": "Tirmidhi 5/473. See Al-Albani's Sahih Tirmidhi 3/144"
+                }
+            ]
+          },
+          {
+            "topicName": "Before Sleeping",
+            "bnTopicName" : "ঘুমানোর আগে",
+            "duas": [
+              {
+                "arabicText": "قُلۡ هُوَ اللّٰهُ اَحَدٌ‌ ۚ‏﴿١﴾ اَللّٰهُ الصَّمَدُ‌ ۚ‏﴿٢﴾ لَمۡ يَلِدۡ ۙوَلَمۡ يُوۡلَدۡ ۙ‏﴿٣﴾ وَلَمۡ يَكُنۡ لَّهٗ كُفُوًا اَحَدٌ ﴿٤﴾‏‏ ‏﻿",
+                "entransliteration" : "Bismillaahir-Rahmaanir-Raheem. Qul Huwallaahu 'Ahad. Allaahus-Samad. Lam yalid wa lam yoolad. Wa lam yakun lahu kufuwan 'ahad.",
+                "bntransliteration" : "ক্বুল হুওয়াল্লা-হু আহাদ। আল্লাহুস্ সামাদ। লাম ইয়ালিদ ওয়া লাম ইউলাদ। ওয়া লাম ইয়াকুল্লাহু কুফুওয়ান আহাদ",
+                "enmeaning": "With the Name of Allah, the Most Gracious, the Most Merciful. Say: He is Allah (the) One. The Self-Sufficient Master, Whom all creatures need, He begets not nor was He begotten, and there is none equal to Him",
+                "bnmeaning": "বলুন, তিনি আল্লাহ্, এক-অদ্বিতীয়। আল্লাহ্ হচ্ছেন ‘সামাদ’ (তিনি কারো মুখাপেক্ষী নন, সকলেই তাঁর মুখাপেক্ষী)। তিনি কাউকেও জন্ম দেন নি এবং তাঁকেও জন্ম দেয়া হয় নি। আর তাঁর সমতুল্য কেউই নেই।",
+                "hadithNumber": "Al-Bukhari,Fathul Bari 9/62, Muslim 4/ 1723."
+              },
+              {
+                "arabicText": "قُلۡ اَعُوۡذُ بِرَبِّ الۡفَلَقِۙ‏ ﴿١﴾ مِنۡ شَرِّ مَا خَلَقَۙ‏ ﴿٢﴾ وَمِنۡ شَرِّ غَاسِقٍ اِذَا وَقَبَۙ‏ ﴿٣﴾ وَمِنۡ شَرِّ النَّفّٰثٰتِ فِى الۡعُقَدِۙ‏ ﴿٤﴾ وَمِنۡ شَرِّ حَاسِدٍ اِذَا حَسَدَ ﴿٥﴾",
+                "entransliteration" : "Bismillaahir-Rahmaanir-Raheem. Qul 'a'oothu birabbil-falaq. Min sharri maa khalaq. Wa min sharri ghaasiqin 'ithaa waqab. Wa min sharrin-naffaathaati fil-'uqad. Wa min sharri haasidin 'ithaa hasad.",
+                "bntransliteration" : "ক্বুল আ‘উযু বিরব্বিল ফালাক্ব। মিন শাররি মা খালাক্ব। ওয়া মিন শাররি গা-সিক্বিন ইযা ওয়াক্বাব। ওয়া মিন শাররিন নাফফা-সা-তি ফিল ‘উক্বাদ। ওয়া মিন শাররি হা-সিদিন ইযা হাসাদ",
+                "enmeaning": "With the Name of Allah, the Most Gracious, the Most Merciful. Say: I seek refuge with (Allah) the Lord of the daybreak, from the evil of what He has created, and from the evil of the darkening (night) as it comes with its darkness, and from the evil of those who practice witchcraft when they blow in the knots, and from the evil of the envier when he envies.",
+                "bnmeaning": "বলুন, আমি আশ্রয় প্রার্থনা করছি ঊষার রবের। তিনি যা সৃষ্টি করেছেন তার অনিষ্ট হতে। ‘আর অনিষ্ট হতে রাতের অন্ধকারের, যখন তা গভীর হয়। আর অনিষ্ট হতে সমস্ত নারীদের, যারা গিরায় ফুঁক দেয়। আর অনিষ্ট হতে হিংসুকের, যখন সে হিংসা করে।",
+                "hadithNumber": "Al-Bukhari,Fathul Bari 9/62, Muslim 4/ 1723."
+              },
+              {
+                "arabicText": "قُلۡ اَعُوۡذُ بِرَبِّ النَّاسِۙ‏ ﴿١﴾ مَلِكِ النَّاسِۙ‏ ﴿٢﴾ اِلٰهِ النَّاسِۙ‏ ﴿٣﴾ مِنۡ شَرِّ الۡوَسۡوَاسِ ۙ الۡخَـنَّاسِ ۙ‏﴿٤﴾ الَّذِىۡ يُوَسۡوِسُ فِىۡ صُدُوۡرِ النَّاسِۙ‏ ﴿٥﴾ مِنَ الۡجِنَّةِ وَالنَّاسِ ﴿٦﴾",
+                "entransliteration" : "Bismillaahir-Rahmaanir-Raheem. Qul 'a'oothu birabbin-naas. Malikin-naas. 'Ilaahin-naas. Min sharril-waswaasil-khannaas. Allathee yuwaswisu fee sudoorin-naas. Minal-jinnati wannaas.",
+                "bntransliteration" : "ক্বুল ‘আউযু বিরাব্বিন্না-স। মালিকিন্না-সি, ইলা-হিন্নাসি, মিন শাররিল ওয়াসওয়া-সিল খান্না-স, আল্লাযি ইউওয়াসউইসু ফী সুদূরিন না-সি, মিনাল জিন্নাতি ওয়ান্না-স।",
+                "enmeaning": "With the Name of Allah, the Most Gracious, the Most Merciful. Say: I seek refuge with (Allah) the Lord of mankind, the King of mankind, the God of mankind, from the evil of the whisperer who withdraws, who whispers in the breasts of mankind, of jinns and men.",
+                "bnmeaning": "বলুন, আমি আশ্রয় প্রার্থনা করছি মানুষের রবের, মানুষের অধিপতির, মানুষের ইলাহের কাছে, আত্মগোপনকারী কুমন্ত্রণাদাতার অনিষ্ট হতে; যে কুমন্ত্রণা দেয় মানুষের অন্তরে, জিনের মধ্য থেকে এবং মানুষের মধ্য থেকে।",
+                "hadithNumber": "Al-Bukhari,Fathul Bari 9/62, Muslim 4/ 1723."
+              },
+              {
+                "arabicText": "اَللّٰهُ لَاۤ اِلٰهَ اِلَّا هُوَ الۡحَـىُّ الۡقَيُّوۡمُ  لَا تَاۡخُذُهٗ سِنَةٌ وَّلَا نَوۡمٌ  لَهٗ مَا فِى السَّمٰوٰتِ وَمَا فِى الۡاَرۡضِ  مَنۡ ذَا الَّذِىۡ يَشۡفَعُ عِنۡدَهٗۤ اِلَّا بِاِذۡنِهٖ  يَعۡلَمُ مَا بَيۡنَ اَيۡدِيۡهِمۡ وَمَا خَلۡفَهُمۡ  وَلَا يُحِيۡطُوۡنَ بِشَىۡءٍ مِّنۡ عِلۡمِهٖۤ اِلَّا بِمَا شَآءَ  وَسِعَ كُرۡسِيُّهُ السَّمٰوٰتِ وَالۡاَرۡضَ  وَلَا يَـــُٔوۡدُهٗ حِفۡظُهُمَا وَهُوَ الۡعَلِىُّ الۡعَظِيۡمُ‏ ",
+                "entransliteration" : "Allaahu laa 'ilaaha 'illaa Huwal-Hayyul-Qayyoom, laa ta'khuthuhu sinatun wa laa nawm, lahu maa fis-samaawaati wa maafil-'ardh, man thal-lathee yashfa'u 'indahu 'illaa bi'ithnih, ya'lamu maa bayna 'aydeehim wa maa khalfahum, wa laa yuheetoona bishay'im-min 'ilmihi 'illaa bimaa shaa'a, wasi'a kursiyyuhus-samaawaati wal'ardh, wa laa ya'ooduhu hifdhuhumaa, wa Huwal-'Aliyyul- 'Adheem.",
+                "bntransliteration" : "আল্লা-হু লা ইলা-হা ইল্লা হুওয়াল হাইয়্যূল কাইয়্যূমু লা তা’খুযুহু সিনাতুঁও ওয়ালা নাউম। লাহূ মা-ফিসসামা-ওয়া-তি ওয়ামা ফিল আরদ্বি। মান যাল্লাযী ইয়াশফা‘উ ‘ইনদাহূ ইল্লা বিইযনিহী। ইয়া‘লামু মা বাইনা আইদীহিম ওয়ামা খালফাহুম। ওয়ালা ইয়ুহীতূনা বিশাইইম মিন্ ইলমিহী ইল্লা বিমা শাআ। ওয়াসি‘আ কুরসিয়্যুহুস সামা-ওয়া-তি ওয়াল আরদ্ব। ওয়ালা ইয়াউদুহূ হিফযুহুমা ওয়া হুয়াল ‘আলিয়্যূল ‘আযীম",
+                "enmeaning": "Allah! There is none worthy of worship but He, the Ever Living, the One Who sustains and protects all that exists. Neither slumber nor sleep overtakes Him. To Him belongs whatever is in the heavens and whatever is on the earth. Who is he that can intercede with Him except with His Permission? He knows what happens to them in this world, and what will happen to them in the Hereafter. And they will never compass anything of His Knowledge except that which He wills. His Throne extends over the heavens and the earth, and He feels no fatigue in guarding and preserving them. And He is the Most High, the Most Great.",
+                "bnmeaning": "আল্লাহ্, তিনি ছাড়া কোনো সত্য ইলাহ্ নেই। তিনি চিরঞ্জীব, সর্বসত্তার ধারক। তাঁকে তন্দ্রাও স্পর্শ করতে পারে না, নিদ্রাও নয়। আসমানসমূহে যা রয়েছে ও যমীনে যা রয়েছে সবই তাঁর। কে সে, যে তাঁর অনুমতি ব্যতীত তাঁর কাছে সুপারিশ করবে? তাদের সামনে ও পিছনে যা কিছু আছে তা তিনি জানেন আর যা তিনি ইচ্ছে করেন তা ছাড়া তাঁর জ্ঞানের কোনো কিছুকেই তারা পরিবেষ্টন করতে পারে না। তাঁর ‘কুরসী’ আসমানসমূহ ও যমীনকে পরিব্যাপ্ত করে আছে; আর এ দুটোর রক্ষণাবেক্ষণ তাঁর জন্য বোঝা হয় না। আর তিনি সুউচ্চ সুমহান।",
+                "hadithNumber": "Al-Baqarah 2:255, Al-Bukhari, Fathul Bari 4/487, No 2311"
+              },
+              {
+                "arabicText": "اٰمَنَ الرَّسُوۡلُ بِمَاۤ اُنۡزِلَ اِلَيۡهِ مِنۡ رَّبِّهٖ وَالۡمُؤۡمِنُوۡنَ‌ؕ كُلٌّ اٰمَنَ بِاللّٰهِ وَمَلٰٓئِكَتِهٖ وَكُتُبِهٖ وَرُسُلِهٖ لَا نُفَرِّقُ بَيۡنَ اَحَدٍ مِّنۡ رُّسُلِهٖ‌ وَقَالُوۡا سَمِعۡنَا وَاَطَعۡنَا‌ غُفۡرَانَكَ رَبَّنَا وَاِلَيۡكَ الۡمَصِيۡرُ‏",
+                "entransliteration" : "Aamanar-Rasoolu bimaa 'unzila ilayhi mir-Rabbihi walmu'minoon, kullun 'aamana billaahi wa malaa'ikatihi wa Kutubihi wa Rusulihi, laa nufarriqu bayna 'ahadim-mir-Rusulihi, wa qaaloo sami'naa wa 'ata'naa ghufraanaka Rabbanaa wa 'ilaykal-maseer.",
+                "bntransliteration" : "আ-মানার রাসূলু বিমা উনযিলা ইলাইহি মির রব্বিহী ওয়াল মু’মিনূন। কুল্লুন আ-মানা বিল্লা-হি ওয়া মালা-ইকাতিহী ওয়াকুতুবিহী ওয়া রুসুলিহ, লা নুফাররিক্বু বাইনা আহাদিম মির রুসুলিহ, ওয়া ক্বালু সামি‘না ওয়া আতা‘না গুফ্‌রা-নাকা রব্বানা ওয়া ইলাইকাল মাসীর।",
+                "enmeaning": "The Messenger has believed in what was revealed to him from his Lord, and [so have] the believers. All of them have believed in Allah and His angels and His books and His messengers, [saying] , 'We make no distinction between any of His messengers.' And they say, 'We hear and we obey. [We seek] Your forgiveness, our Lord, and to You is the [final] destination.' [285]",
+                "bnmeaning": "রাসূল তার প্রভুর পক্ষ থেকে যা তার কাছে নাযিল করা হয়েছে তার উপর ঈমান এনেছেন এবং মুমিনগণও। প্রত্যেকেই ঈমান এনেছে আল্লাহর উপর, তাঁর ফেরেশ্তাগণ, তাঁর কিতাবসমূহ এবং তাঁর রাসূলগণের উপর। আমরা তাঁর রাসূলগণের কারও মধ্যে তারতম্য করি না। আর তারা বলে, আমরা শুনেছি ও মেনে নিয়েছি। হে আমাদের রব! আপনার ক্ষমা প্রার্থনা করি এবং আপনার দিকেই প্রত্যাবর্তনস্থল।",
+                "hadithNumber": "Al-Baqarah 2:285, Al-Bukhari, Fathul Bari 9/94, Muslim 1/554."
+              }
+              ,
+              {
+                "arabicText": "لَا يُكَلِّفُ اللّٰهُ نَفۡسًا اِلَّا وُسۡعَهَا ‌ؕ لَهَا مَا كَسَبَتۡ وَعَلَيۡهَا مَا اكۡتَسَبَتۡ‌ؕ رَبَّنَا لَا تُؤَاخِذۡنَاۤ اِنۡ نَّسِيۡنَاۤ اَوۡ اَخۡطَاۡنَا ‌ۚ رَبَّنَا وَلَا تَحۡمِلۡ عَلَيۡنَاۤ اِصۡرًا كَمَا حَمَلۡتَهٗ عَلَى الَّذِيۡنَ مِنۡ قَبۡلِنَا ‌‌ۚ رَبَّنَا وَلَا تُحَمِّلۡنَا مَا لَا طَاقَةَ لَنَا بِهٖۚ وَاعۡفُ عَنَّا وَاغۡفِرۡ لَنَا وَارۡحَمۡنَا اَنۡتَ مَوْلَىٰنَا فَانۡصُرۡنَا عَلَى الۡقَوۡمِ الۡكٰفِرِيۡنَ",
+                "entransliteration" : "Laa yukallifullaahu nafsan 'illaa wus'ahaa, lahaa maa kasabat wa 'alayhaa mak-tasabat, Rabbanaa laa tu'aakhithnaa 'in naseenaa 'aw 'akhta'naa, Rabbanaa wa laa tahmil 'alaynaa 'isran kamaa hamaltahu 'alal-latheena min qablinaa, Rabbanaa wa laa tuhammilnaa maa laa taaqata lanaa bihi, wa'fu 'annaa, waghfir lanaa warhamnaa, 'Anta Mawlaanaa fansurnaa 'alal-qawmil-kaafireen.",
+                "bntransliteration" : "লা ইয়ুকাল্লিফুল্লাহু নাফ্‌সান ইল্লা উস‘আহা লাহা মা কাসাবাত ওয়া আলাইহা মাক্তাসাবাত রব্বানা লা তুআখিয্‌না ইন নাসীনা আও আখ্‌ত্বা’না। রব্বনা ওয়ালা তাহ্‌মিল ‘আলাইনা ইসরান কামা হামালতাহু ‘আলাল্লাযীনা মিন ক্বাবলিনা। রব্বনা ওয়ালা তুহাম্মিলনা মা-লা ত্বা-ক্বাতা লানা বিহী। ওয়া‘ফু আন্না ওয়াগফির লানা ওয়ারহামনা আনতা মাওলা-না ফানসুরনা ‘আলাল ক্বাউমিল কাফিরীন",
+                "enmeaning": "Allah does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. 'Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people.' [286]",
+                "bnmeaning": "রাসূল তার প্রভুর পক্ষ থেকে যা তার কাছে নাযিল করা হয়েছে তার উপর ঈমান এনেছেন এবং মুমিনগণও। প্রত্যেকেই ঈমান এনেছে আল্লাহর উপর, তাঁর ফেরেশ্তাগণ, তাঁর কিতাবসমূহ এবং তাঁর রাসূলগণের উপর। আমরা তাঁর রাসূলগণের কারও মধ্যে তারতম্য করি না। আর তারা বলে, আমরা শুনেছি ও মেনে নিয়েছি। হে আমাদের রব! আপনার ক্ষমা প্রার্থনা করি এবং আপনার দিকেই প্রত্যাবর্তনস্থল।",
+                "hadithNumber": "Al-Baqarah 2:286, Al-Bukhari, Fathul Bari 9/94, Muslim 1/554."
+              },
+              {
+                "arabicText": "بِاسْمِكَ رَبِّيْ وَضَعْتُ جَنْبِيْ، وَبِكَ أَرْفَعُهُ، فَإِنْ أَمْسَكْتَ نَفْسِيْ فارْحَمْهَا، وَإِنْ أَرْسَلْتَهَا فَاحْفَظْهَا، بِمَا تَحْفَظُ بِهِ عِبَادَكَ الصَّالِحِيْنَ",
+                "entransliteration" : "Bismika Rabbee wadha'tu janbee , wa bika 'arfa'uhu, fa'in 'amsakta nafsee farhamhaa, wa 'in 'arsaltahaa fahfadhhaa, bimaa tahfadhu bihi 'ibaadakas-saaliheen.",
+                "bntransliteration" : "বিইসমিকারব্বী ওয়াদা‘তু জাম্বী, ওয়া বিকা আরফা‘উহু। ফাইন্ আম্‌সাক্তা নাফ্‌সী ফারহামহা, ওয়াইন আরসালতাহা ফাহ্‌ফায্‌হা বিমা তাহ্‌ফাযু বিহী ‘ইবা-দাকাস সা-লিহীন",
+                "enmeaning": "In Your name my Lord, I lie down and in Your name I rise, so if You should take my soul then have mercy upon it, and if You should return my soul then protect it in the manner You do so with Your righteous servants.",
+                "bnmeaning": "আমার রব! আপনার নামে আমি আমার পার্শ্বদেশ রেখেছি (শুয়েছি) এবং আপনারই নাম নিয়ে আমি তা উঠাবো। যদি আপনি (ঘুমন্ত অবস্থায়) আমার প্রাণ আটকে রাখেন, তবে আপনি তাকে দয়া করুন। আর যদি আপনি তা ফেরত পাঠিয়ে দেন, তাহলে আপনি তার হেফাযত করুন যেভাবে আপনি আপনার সৎকর্মশীল বান্দাগণকে হেফাযত করে থাকেন।",
+                "hadithNumber": "Al-Bukhari 11/126, Muslim 4/2084."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categoryName": "Prayer",
+        "bnCategoryName": "সালাত",
+        "topics": [
+          {
+            "topicName": "When starting ablution",
+            "bnTopicName" : "ওযু শুরু করার সময়",
+            "duas": [
+              {
+                  "arabicText": "بِسْمِ الله",
+                  "entransliteration" : "Bismillāhi",
+                  "bntransliteration" : "বিস্‌মিল্লা-হ্",
+                  "enmeaning": "In the Name of Allah",
+                  "bnmeaning": "আল্লাহ্‌র নামে",
+                  "hadithNumber": "Abu Dawud, Ibn Majah, and Ahmad. See also Al-Albani, 'Irwa'ul-Ghain 1/122."
+              }
+            ]
+          },
+          {
+              "topicName": "Upon completing the ablution",
+              "bnTopicName" : "অযু সম্পন্ন করার পর",
+              "duas": [
+                {
+                    "arabicText": "أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا اللّٰهُ وَحْدَهُ لَا شَرِيْكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ ",
+                    "entransliteration" : "Ash-hadu 'an laa 'ilaaha 'illallaahu wahdahu laa shareeka lahu wa 'ash-hadu 'anna Muhammadan 'abduhu wa Rasooluhu.",
+                    "bntransliteration" : "আশ্‌হাদু আল্লা-ইলাহা ইল্লাল্লাহু ওয়াহ্‌দাহু লা- শারীকা লাহূ ওয়া আশহাদু আন্না মুহাম্মাদান ‘আব্দুহূ ওয়া রাসূলুহূ",
+                    "enmeaning": "I bear witness that none has the right to be worshipped but Allah alone, Who has no partner; and I bear witness that Muhammad is His slave and His Messenger.",
+                    "bnmeaning": "আমি সাক্ষ্য দিচ্ছি যে, একমাত্র আল্লাহ ছাড়া কোনো হক্ব ইলাহ নেই, তাঁর কোনো শরীক নেই। আমি আরও সাক্ষ্য দিচ্ছি যে, মুহাম্মাদ তাঁর বান্দা ও রাসূল",
+                    "hadithNumber": "Muslim 1/209"
+                },
+                {
+                  "arabicText": "اَللّٰهُمَّ اجْعَلْنِيْ مِنَ التَّوَّابِيْنَ وَاجْعَلْنِيْ مِنَ الْمُتَطَهِّرِيْنَ",
+                  "entransliteration" : "A llaahummaj'alnee minat-tawwaabeena waj'alnee minal-mutatahhireen.",
+                  "bntransliteration" : "আল্লা-হুম্মাজ‘আলনী মিনাত্ তাওয়াবীনা ওয়াজ‘আলনী মিনাল মুতাতাহ্‌হিরীন",
+                  "enmeaning": "O Allah, make me among those who turn to You in repentance, and make me among those who are purified.",
+                  "bnmeaning": "হে আল্লাহ! আপনি আমাকে তাওবাকারীদের অন্তর্ভুক্ত করুন এবং পবিত্রতা অর্জনকারীদেরও অন্তর্ভুক্ত করুন।",
+                  "hadithNumber": "At-Tirmithi 1/78. See also Al-Albani, Sahih At- Tirmithi 1/18"
+              }
+              ]
+            }
+        ]
+      }
+    ]
+  
+}
